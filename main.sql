@@ -1,4 +1,6 @@
 new line added in branch 'MASTER'
+kolejna linia 1 na test
+kolejna linia 2 na test
 
 association = createAssociation(i"http://www.rodan.pl/psi/association-class/association-account-group-member", null);
     role = createRole(association, i"http://www.rodan.pl/xtm/cgm.xtm#member_container");
