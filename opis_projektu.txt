@@ -1,4 +1,6 @@
-Plan prac
+PLAN PRAC
 1. Początek
 2. Wymagania
 3. PRzerwa kawowa
+4. kolejny punkt 1
+5. kolejny punkt 2
