@@ -3,4 +3,4 @@ PLAN PRAC
 2. Wymagania
 3. PRzerwa kawowa
 4. kolejny punkt 1
-5. kolejny punkt 2
+5. kolejny punkt 2 <ąęć>
